@@ -1,5 +1,5 @@
 <div align="center">
-<h1>ElectricityBalanceReminder-HualiCollege</h1>
+<h1>Ruijie ePortal Auto Login tool</h1>
 锐捷校园网ePortal Web（网页认证）自动登录脚本
 <br><br>
   
