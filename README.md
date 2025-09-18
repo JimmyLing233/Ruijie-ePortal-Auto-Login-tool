@@ -37,7 +37,7 @@ curl 'http://10.xx.xx.xx/eportal/InterFace.do?method=login' -H 'Accept: */*' -H 
 
 ### 运行
 ```bash
-chmod xyw.sh
+chmod +x xyw.sh
 ./xyw.sh
 ```
 
